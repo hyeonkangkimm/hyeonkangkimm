@@ -1,12 +1,22 @@
-**### About me
+### About me
 
 <h1 align="center">Hi 👋, I'm hyeonkangKim</h1>
 <h3 align="center">A passionate backend developer from Korea.</h3>
 
-- 🌱 I’m currently learning **SpringBoot Frameworks**
-- 📝 I regularly write articles on https://velog.io/@kkhk75/posts
-- 💬 Ask me about **SpringBoot and Java**
-- 📫 How to reach me **kkhk75@gmail.com**
+- 🌱 **I’m currently learning SpringBoot Frameworks**
+- 📝 **I regularly write articles on**  
+  <a href="https://velog.io/@kkhk75/posts" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Velog-Blog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog Blog"/>
+  </a>
+
+- 💬 **Ask me about**  
+  <img src="https://img.shields.io/badge/Spring%20Boot-Framework-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Java-Language-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+
+- 📫 **How to reach me**  
+  <a href="mailto:kkhk75@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kkhk75%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
 ### Education
 - 🎓 **Seokyeong University** — B.S. in **Computer Engineering**
@@ -103,8 +113,13 @@
   </a>
 </p>
 
+<h2 align="left">⚙️ Current Tech Stack</h2>
 <!-- ✅ GitHub Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hyeonkangkimm" alt="GitHub Streak" />
 </p>
-**
+
+## 📊 GitHub Activity
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyeonkangkimm&theme=tokyonight)
+![](https://github-readme-activity-graph.vercel.app/graph?username=hyeonkangkimm&theme=tokyo-night)
