@@ -66,8 +66,12 @@ Spring Boot 기반의 서비스 개발과 데이터 처리, 인프라 구성에 
 
 |  | Experience | Period |
 |---|---|---|
-| 🎓 | **Seokyeong University — Computer Engineering** | `2021.03 ~ Present` |
-| 🏆 | **1st Place — Electronic & Computer Engineering / Software Department Competition** | `2025` |
+| 🎓 | **서경대학교 컴퓨터공학과 입학** | `2021.03` |
+| 🦁 | **서경대학교 멋쟁이사자처럼 해커톤 참여 및 작품 출품** | `2025.09` |
+| 🌱 | **UMC Spring Boot 동아리 참여** | `2025.09` |
+| 🏆 | **전자컴퓨터공학부/소프트웨어 공학 연합 공모전 1st(대상) 및 작품 출품** | `2025.11` |
+| 📱 | **UMC 작품 출품** | `2026.02` |
+| 🚀 | **STDEV 해커톤 참여 및 작품 출품** | `2026.04` |
 
 </div>
 
