@@ -4,6 +4,15 @@
 
 <h3>A passionate backend developer from Korea.</h3>
 
+<h2 align="center">🙋 About Me</h2>
+
+<div align="center">
+
+꾸준히 더 나은 서버를 고민하는 백엔드 개발자입니다.  
+Spring Boot 기반의 서비스 개발과 데이터 처리, 인프라 구성에 관심이 많습니다.
+
+</div>
+
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kkhk75/posts)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kkhk75@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hyeonkangkimm)
@@ -57,15 +66,6 @@
 |---|---|---|
 | 🎓 | **Seokyeong University — Computer Engineering** | `2021.03 ~ Present` |
 | 🏆 | **1st Place — Electronic & Computer Engineering / Software Department Competition** | `2025` |
-
-</div>
-
-<h2 align="center">🙋 About Me</h2>
-
-<div align="center">
-
-꾸준히 더 나은 서버를 고민하는 백엔드 개발자입니다.  
-Spring Boot 기반의 서비스 개발과 데이터 처리, 인프라 구성에 관심이 많습니다.
 
 </div>
 
