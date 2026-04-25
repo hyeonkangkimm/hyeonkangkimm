@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&pause=1000&color=2F2F2F&center=true&vCenter=true&width=600&height=70&lines=hyeonkang's+GitHub" />
 
@@ -97,12 +97,3 @@ Spring Boot 기반의 서비스 개발과 데이터 처리, 인프라 구성에 
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hyeonkangkimm&theme=tokyonight" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyeonkangkimm&theme=tokyo-night" />
-</div>
