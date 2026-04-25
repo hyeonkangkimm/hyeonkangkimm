@@ -70,7 +70,7 @@
 
 |  | Experience | Period |
 |---|---|---|
-| 🎓 | **Seokyeong University — Computer Engineering** | `2023.03 ~ Present` |
+| 🎓 | **Seokyeong University — Computer Engineering** | `2021.03 ~ Present` |
 | 🏆 | **1st Place — Electronic & Computer Engineering / Software Department Competition** | `2025` |
 
 </div>
