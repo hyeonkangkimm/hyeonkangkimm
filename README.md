@@ -76,12 +76,4 @@ Spring Boot 기반의 서비스 개발과 데이터 처리, 인프라 구성에 
 
 </div>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hyeonkangkimm&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonkangkimm&layout=compact&theme=tokyonight" />
-</div>
-
-<br/>
 
